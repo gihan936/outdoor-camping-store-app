@@ -20,3 +20,4 @@ This is a Flutter mobile application for an eCommerce store selling outdoor camp
 
 1. Clone the repository to your local machine:
    ```bash
+https://github.com/gihan936/outdoor-camping-store-app.git
